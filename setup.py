@@ -2,7 +2,7 @@ from setuptools import setup, find_packages # type: ignore
 
 setup(
     name="gui_calculator",
-    version="0.0.1",
+    version="0.0.2",
     author="Dejan Malesevic",
     author_email="",
     url="",
